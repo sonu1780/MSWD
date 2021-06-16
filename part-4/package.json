@@ -9,8 +9,7 @@
 		"test": "cross-env NODE_ENV=test jest --verbose --runInBand",
 		"start:test": "cross-env NODE_ENV=test nodemon index.js"
 	},
-	"author": "Sudeshna Sani",
-	"license": "KLU",
+	"author": "sonu pandit",
 	"dependencies": {
 		"bcrypt": "^5.0.1",
 		"body-parser": "^1.19.0",
